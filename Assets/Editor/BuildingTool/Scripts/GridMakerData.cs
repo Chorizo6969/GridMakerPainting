@@ -7,12 +7,12 @@ public static class GridMakerData //Sert à stocker les méthodes indépendantes et
     {
         return value switch
         {
-            0 => Color.gray,
-            1 => Color.green,
+            0 => Color.darkGray,
+            1 => Color.lightGreen,
             2 => Color.cyan,
-            3 => Color.red,
-            4 => Color.yellow,
-            5 => Color.white,
+            3 => Color.softRed,
+            4 => Color.softYellow,
+            5 => Color.whiteSmoke,
             _ => Color.black
         };
     }
