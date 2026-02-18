@@ -24,4 +24,16 @@ MonoBehaviour:
   - _id: 2
     _prefab: {fileID: 5801686517079378611, guid: 93a2c7309e12fb34da1fc57546f7e7e4, type: 3}
     _icon: {fileID: 2800000, guid: e43866a60914e7a4d8a96c7ea9755512, type: 3}
+    _height: -0.3
+  - _id: 3
+    _prefab: {fileID: 4639325759644982482, guid: 2b2ed0d58c9d5c4479fc0e2aef1523de, type: 3}
+    _icon: {fileID: 2800000, guid: 537cd8f809c195541b6b8507d0f911e4, type: 3}
     _height: 0
+  - _id: 4
+    _prefab: {fileID: 7764344505700587263, guid: de908c1e214b1ab439d0275ac2794834, type: 3}
+    _icon: {fileID: 2800000, guid: d3be08d89dd426648b97922caabb1001, type: 3}
+    _height: -0.15
+  - _id: 5
+    _prefab: {fileID: 2802152134055706241, guid: 70726c5aacb1c74408228a1f711af40e, type: 3}
+    _icon: {fileID: 2800000, guid: ba23971296f900f4e97d611ae55f75d6, type: 3}
+    _height: 1
