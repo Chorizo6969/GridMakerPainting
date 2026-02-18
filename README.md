@@ -111,7 +111,7 @@ Use the following parameters:
 
 to change the map size.
 
-💡 Tip: using two monitors greatly improves workflow comfort.
+Tip: using two monitors greatly improves workflow comfort.
 
 ---
 
