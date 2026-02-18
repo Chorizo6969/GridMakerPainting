@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 288d57f5bf562744980d980c9e4fc55d, type: 3}
+  m_Name: ToolIcon
+  m_EditorClassIdentifier: 
+  _brushIcon: {fileID: 2800000, guid: a01e01fec7b93a547a05cc43348dc3d0, type: 3}
+  _rectToolIcon: {fileID: 2800000, guid: f9c0fac4ba31d84459f58a863ae6adc9, type: 3}
+  _fillIcon: {fileID: 2800000, guid: f5c185ebd385986429e0f3de6ab833e0, type: 3}
